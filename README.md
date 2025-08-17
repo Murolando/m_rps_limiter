@@ -77,7 +77,7 @@ go test -bench=. ./pkg/limiter/
 
 Run the test suite:
 ```bash
-go test ./...
+go test ./pkg/limiter/
 ```
 
 ## Contributing
